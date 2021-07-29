@@ -1,4 +1,4 @@
-# Rekursivlisting von Fluxel für JTL-Shop
+# Rekursivlisting von Fluxel für JTL-Shop 5+
 
 [Download](https://github.com/fluxel-app/fluxel_rekursivliste/releases/download/v1/fluxel_rekursivliste.zip)
 
