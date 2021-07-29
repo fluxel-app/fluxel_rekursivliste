@@ -1,5 +1,7 @@
 # Rekursivlisting von Fluxel
 
+Kompatiblität: JTL-Shop 5 oder höher
+
 Diese Plugin zieht Ihre Artikel in die Oberkategorien des JTL-Shops.
 
 ## JTL-Wawi / Vorbereitung
