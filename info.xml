@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<jtlshopplugin>
+	<Name>Fluxel Rekursivliste</Name>
+	<Description>Zeigt die Artikel der Unterkategorien an.</Description>
+	<Author>Fluxel UG</Author>
+	<URL>https://www.fluxel.de</URL>
+	<XMLVersion>100</XMLVersion>
+	<ShopVersion>5.0.0-beta.3</ShopVersion>
+	<PluginID>fluxel_rekursivliste</PluginID>
+	<Version>1.0.0</Version>
+	<CreateDate>2020-10-13</CreateDate>
+	<Install>
+		<Locales>
+		</Locales>
+	</Install>
+</jtlshopplugin>
