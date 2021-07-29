@@ -25,7 +25,7 @@ Wenn das Feld gesetzt ist, werden Artikel aus den Unterkategorien in der Kategor
 
 ## Rekursion ausschließen
 
-Ist das Feld gesetzt ist, werden Artikel dieser Kategorie und der Unterkategorien nicht in den oberen Kategorien angezeigt.
+Ist das Feld gesetzt ist, werden Artikel dieser Kategorie und den Unterkategorien nicht in den oberen Kategorien angezeigt.
 
 ## Bespiel:
 
