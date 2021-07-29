@@ -15,7 +15,7 @@ Empfohlen wird als Datentyp die Checkbox.
 
 Hier eine Beispielkonfiguration:
 
-// TODO: Bild einfügen
+![Eigene Felder in JTL-Wawi](Eigene_Felder_JTL-Wawi.jpeg)
 
 ## Rekursion einschließen
 
