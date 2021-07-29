@@ -46,4 +46,4 @@ In dem Beispiel werden in Kategorie 1 Artikel 1 - 4 angezeigt.
 
 ## Status und Sicherheit
 
-Das Plugin baut eine Liste aus Kategorie-Schlüssel zusammen und modifiziert die Bedingungen für die Artikelauswahl. Die Kategorie-Schlüssel werden in den Objekt-Cache geschrieben und haben somit nach der ersten Aufwahl keinen Einfluss auf deine Shop-Performance.
+Das Plugin baut eine Liste aus Kategorie-Schlüssel zusammen und modifiziert die Bedingungen für die Artikelauswahl. Die Kategorie-Schlüssel werden in den Objekt-Cache geschrieben und haben somit nach der ersten Auswahl keinen Einfluss auf deine Shop-Performance.
