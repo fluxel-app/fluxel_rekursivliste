@@ -2,6 +2,8 @@
 
 [Download](https://github.com/fluxel-app/fluxel_rekursivliste/releases/download/v1/fluxel_rekursivliste.zip)
 
+[Blogeintrag und Infos](https://www.fluxel.de/2021/07/29/fluxel-open-source-jtl-shop-plugins/)
+
 Kompatibilität: JTL-Shop 5 oder höher
 
 Diese Plugin zieht Ihre Artikel in die Oberkategorien des JTL-Shops.
